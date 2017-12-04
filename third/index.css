@@ -1,0 +1,26 @@
+body {
+    margin:0;
+}
+
+.header{
+    width:100%;
+    background-color:rgb(233, 233, 233);
+    padding:20px 20px 20px 20px;
+}
+.smallsquare{
+    background-color: rgb(112, 152, 212);
+    height: 15vh;
+    width:100px;
+    margin:0px 500px 0px 20px;
+}
+.word-box {
+    background-color:gray;
+    width:100%;
+    height: 50vh;
+    margin:auto;
+}
+.words {
+    font-size: 25px;
+    width:100%;
+    
+}
